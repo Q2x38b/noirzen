@@ -1,0 +1,33 @@
+{
+	"$schema": "https://json.schemastore.org/package.json",
+	"name": "noirzen-theme",
+	"displayName": "Noirzen",
+	"description": "A clean dark modern minimal theme",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.0.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Noirzen",
+				"uiTheme": "vs-dark",
+				"path": "./themes/noirzen-theme.json"
+			}
+		]
+	},
+	"extensionDependencies": [],
+	"activationEvents": [
+		"*"
+	],
+	"main": "./fonts/font-loader.js",
+	"dependencies": {
+		"noirzen-theme": "file:"
+	},
+	"__metadata": {
+		"size": 400903
+	}
+}
