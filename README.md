@@ -4,7 +4,7 @@
 
 **Sleek. Dark. Effortlessly Minimal.**
 
-[![Version](https://img.shields.io/badge/version-1.3.0-blue.svg)](https://marketplace.visualstudio.com/items?itemName=username.noirzen-theme)
+[![Version](https://img.shields.io/badge/version-1.5.0-blue.svg)](https://marketplace.visualstudio.com/items?itemName=username.noirzen-theme)
 [![Rating](https://img.shields.io/visual-studio-marketplace/r/username.noirzen-theme)](https://marketplace.visualstudio.com/items?itemName=e108.noirzen-theme)
 [![Downloads](https://img.shields.io/visual-studio-marketplace/d/username.noirzen-theme)](https://marketplace.visualstudio.com/items?itemName=e108.noirzen-theme)
 [![License](https://img.shields.io/badge/license-MIT-orange.svg)](LICENSE)
@@ -86,7 +86,7 @@ Contributions are welcome! Feel free to:
 
 ## License
 
-This theme is released under the [MIT License](LICENSE).
+This theme is released under the [MIT License](https://github.com/Q2x38b/noirzen/blob/main/LICENSE.md).
 
 ## Acknowledgments
 
